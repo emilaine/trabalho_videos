@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-/*
-Autores
-Nome Emilaine RA 2216112399
-Nome Mauricio RA 2216101424
-Nome Welington RA 2216100696
-*/
+	/*
+		Autores
+	
+		Emilaine  	- RA 2216112399
+		Mauricio  	- RA 2216101424
+		Welington  	- RA 2216100696
+		
+	*/
 int main(){
     char assunto[100];
     int quant_topicos = 0, i, j = 0, l, sort = 0, cont = 0, jaestudado[100], saiu=0;
